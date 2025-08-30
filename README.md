@@ -1,0 +1,2 @@
+# nsedata
+processed nse data. 
