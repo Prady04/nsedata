@@ -5,4 +5,4 @@ use at own risk.
 i dont claim correctness
 will be updated weekly
 
-updated till 20Nov2025
+updated till 21 Nov2025
