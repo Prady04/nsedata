@@ -1,8 +1,8 @@
 nsedata
 
-processed nse data.
+processed  data.
 use at own risk.
 i dont claim correctness
 will be updated weekly
 
-updated till 28 Nov2025
+updated till 06 dec 2025
