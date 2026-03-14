@@ -5,4 +5,4 @@ use at own risk.
 i dont claim correctness
 will be updated weekly
 
-updated till16 feb 2026
+updated till 7 march
